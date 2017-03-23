@@ -9,3 +9,4 @@
 
 # See Also (External)
 * [Open Source Guides](https://opensource.guide/)
+* [CERT secure C++ coding guide](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637)
